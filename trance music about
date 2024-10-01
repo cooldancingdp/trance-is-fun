@@ -1,0 +1,29 @@
+<p>trance is my favourite genre<em>it is good to dance</em></p>
+<div><p>trance like like like </p></div>
+
+<ul>
+<li><a href="#section1">1</a></li>
+<li><a href="#section2">2</a></li>
+</ul>
+
+<ul>
+<li><a href="#section1"></a></li>
+<h2 id="#section1">section 1</h2>
+<p>my tag <em><b>awesome</em></b><p>
+<p>Section 1 content</p>
+<h2 id="#section2">Section 2</h2>
+<p>this content<a href="">link</a>
+</p>
+<p>word more <mark>error</mark>so much fun </p>
+</ul>
+
+<!-- programming my menu -->
+<div class="time">
+<menu>
+<li><button>My button 1</button></li>
+<li><button>My button 2</button></li>
+</menu>
+</div>
+
+<p>trance uplifts me</p>
+<p>I dance to trance</p>
